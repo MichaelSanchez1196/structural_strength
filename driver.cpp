@@ -1,4 +1,4 @@
-# structural_strength
+
 // Nancy
 // Kori
 // Michael
@@ -108,4 +108,3 @@ double variance(int a[], int n){
 double standardDeviation(double var){
 	return sqrt(var);
 }
-
